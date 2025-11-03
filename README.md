@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home pagina - Piatti Beach
-  <img src="images/PiattiHome.png" width="375px" alt="Piatti - Home pagina">
+  <img src="readme-images/PiattiHome.png" width="375px" alt="Piatti - Home pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Events Pagina - Piatti Beach
-  <img src="images/PiattiEvents.png" width="375px" alt="Piatti - Menu pagina">
+  <img src="readme-images/PiattiEvents.png" width="375px" alt="Piatti - Menu pagina">
  
 </details>
 
@@ -81,10 +81,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="images/PiattiHome.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/PiattiHome.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="images/PiattiMenu.png" width="375px" alt="breakdown van de navigatie">
+  <img src="readme-images/PiattiMenu.png" width="375px" alt="breakdown van de navigatie">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="images/Form.png" width="375px" alt="Form voor het maken van een reservering">
