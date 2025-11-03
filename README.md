@@ -42,8 +42,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="images/PiattiHome.png" width="375px" alt="Piatti - Home pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="images/PiattiMenu.png" width="375px" alt="Piatti - Menu pagina">
+  Events Pagina - Piatti Beach
+  <img src="images/PiattiEvents.png" width="375px" alt="Piatti - Menu pagina">
  
 </details>
 
@@ -71,7 +71,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   De gebruikte animatie zijn subtiel, ze sliden mooi in het scherm.
   De color contrast is aanwezig.
 
-
 </details>
 
 
@@ -85,7 +84,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="images/PiattiHome.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="images/Nav.png" width="375px" alt="breakdown van de navigatie">
+  <img src="images/Piattimenu.pdf" width="375px" alt="breakdown van de navigatie">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="images/Form.png" width="375px" alt="Form voor het maken van een reservering">
@@ -254,8 +253,33 @@ form voor newsletter
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
-
+  1. Bron Skip to Content link: https://css-tricks.com/how-to-create-a-skip-to-content-link/
+  2. Bron Hide Content: https://www.a11yproject.com/posts/how-to-hide-content/
+  3. Bron HamburgerMenu Fixed Button: DLO FED - Werkgroep 5 - https://codepen.io/shooft/pen/Qwjaojy
+  4. Bron Carousel: DLO FED - Werkgroep 4 Flexbox oefening 4 - https://codepen.io/shooft/pen/QwjQGZe
+  5. Bron Label: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/label
+  6. Bron Input: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input
+  7. Bron Textarea: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/textarea
+  8. Bron Select: https://www.w3schools.com/tags/tag_select.asp
+  9. Bron Option: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/option
+  10. Bron Placeholder: https://www.w3schools.com/tags/att_input_placeholder.asp
+  11. Bron Position: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/position
+  12. Bron uitleg over grid: https://www.w3schools.com/css/css_grid.asp
+  13. Bron object-fit: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/object-fit
+  14. Bron line-height:https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/line-height
+  15. Bron grid fitcontent: https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content_function
+  16. Bron Z-index: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/z-index
+  17. Bron uitleg over VW https://www.w3schools.com/cssref/css_units.php
+  18. Bron transform: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/transform
+  19. Bron gap; https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/gap
+  20. Bron Custom Properties: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascading_variables/Using_CSS_custom_properties
+  21. Prefers-color-scheme:dark: uitleg van docent + https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme
+  22. Bron @font-face: https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
+  23. Bron Intersection observer: https://blog.webdevsimplified.com/2022-01/intersection-observer/ 
+  24. Bron max-content: https://developer.mozilla.org/en-US/docs/Web/CSS/max-content 
+  25. Bron aling-self:https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/align-self
+  26. bron @Media: https://www.w3schools.com/cssref/atrule_media.php
+  27. Uitleg over Object-fit en Display:block Bron ChatGPT: prompt:hoe zeg je dat de foto de hele kolom moet inemen css?
+  28. Bron uitleg over transition: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/transition
+  29. Bron uitleg over text-decoration: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/text-decoration
 </details>
