@@ -44,7 +44,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenshot(s) van de tweede pagina (small screen):
   Events Pagina - Piatti Beach
   <img src="readme-images/PiattiEvents.png" width="375px" alt="Piatti - Menu pagina">
- 
 </details>
 
 
@@ -70,7 +69,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Er is geen dark of high contrast mode.
   De gebruikte animatie zijn subtiel, ze sliden mooi in het scherm.
   De color contrast is aanwezig.
-
 </details>
 
 
@@ -117,22 +115,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-Per pagina 1 style sheat dus 2 css
-Een gezamelijke pagina.
-boven in moet de gezamelijke style sheet.
-Hamburgermenu is een button. 
-De nav in de header is een unorderd list.
-<a href="#"> learn more about Yael</a> . visually hidden
-h1 toevoegen met visually hiden. a11y
-form voor newsletter
-
-
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
+  - Ik weet nu, dat ik per html pagina 1 css pagina moeten maken plus een algemene css
+  - je kan een niet zichtbare h1 toevoegen met visually hidden
+  - Gebruik voor grootscherm @media
+  - Download de fonts op de website en via de inspecter kan je zien welke font bij welke tekst hoort.
 </details>
 
 
@@ -151,21 +137,21 @@ form voor newsletter
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Casper         | Joep               | Yael         | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | HamburgerMenu  | HamburgerMenu      | Nav bar      | en dan ik dat    |
-  | ...            | Transitie nav bar  | ...          | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Casper         | Joep               | Yael         |
+  | ---            | ---                | ---          |
+  | HamburgerMenu  | HamburgerMenu      | Nav bar      |
+  | ...            | Transitie nav bar  | ...          |
+  | ...            | ...                | ...          |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
-
+  - Ik weet nu hoe ik aan de slag moet met het hamburger menu open klapt
+  - Hoe je hamburgermenu naar horiziontale nav bar gaat
+  - Hoe je een button laat verschijnen en verwijdenen met Display
+  - Hoe je een SVG toevoegt aan je nav bar
+  - Wat je met z-index kan doen
 </details>
 
 
@@ -198,20 +184,20 @@ form voor newsletter
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Yael           | Casper             | Joep               | student 4        |
-  | ---            | ---                | ---                | ---              |
-  | Hamburger Menu | Hamburger Menu     | Hamburger Menu     | en dan ik dat    |
-  | ...            | ...                | Input              | dit wil ik zeker |
-  | ...            | ...                | Foto Overlay       | ...              |
+  | Yael           | Casper             | Joep               |
+  | ---            | ---                | ---                |
+  | Hamburger Menu | Hamburger Menu     | Hamburger Menu     |
+  | ...            | ...                | Input              |
+  | ...            | ...                | Foto Overlay       |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Ik weet nu welke inputs je kan gebruiken
+  - De inputs plaats je in een form
+  - Foto overlay kan je het best doen in een grid, waarbij je je foto's laat overlapen, door dezelfde colum of row  aan te geven
+  - Hoe je een button laat verschijnen en verwijdenen met Display
 
 </details>
 
@@ -282,5 +268,5 @@ form voor newsletter
   27. Uitleg over Object-fit en Display:block Bron ChatGPT: prompt:hoe zeg je dat de foto de hele kolom moet inemen css?
   28. Bron uitleg over transition: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/transition
   29. Bron uitleg over text-decoration: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/text-decoration
-  30. https://piattibeach.com
+  30. Bron Piatti Beach:https://piattibeach.com
 </details>
