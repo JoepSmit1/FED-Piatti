@@ -55,20 +55,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-  Content: De taal is duidelijk op de pagina, er zit alleen qua vormgeving niet echt een logica in.
-  Er worden veel verschillende font gebruikts. 
-  Buttons zijn niet allemaal hetzelfde.
-  Een goede HTML structuur is niet aanwezig.
-  Een unique titel per pagina en zoompoort is aanwezig.
-  De screenreader werkt niet goed genoeg. De titels worden voorgelezen, maar er is geen alt text bij de foto's
-  Button en links werken goed. Er zit geen horizontal scrolling op de website.
-  Er zit in de small screen variant niet altijd genoeg wit ruimte tussen de elementen.
-  De headings zijn overzichtelijk, alleen is het voormij niet altijd duidelijk of er nu een h2, h3, h4 of een p wordt gebruikt.
-  Er wordt geen gebruik gemaakt vind list items.
-  De links zijn bijna allemaal duidelijk te vinden, soms zit er een verstopt in een foto.
-  Er is geen dark of high contrast mode.
-  De gebruikte animatie zijn subtiel, ze sliden mooi in het scherm.
-  De color contrast is aanwezig.
+  1. Content: De taal is duidelijk op de pagina, er zit alleen qua vormgeving niet echt een logica in.
+  2. Er worden veel verschillende font gebruikts. 
+  3. Buttons zijn niet allemaal hetzelfde.
+  4. Een goede HTML structuur is niet aanwezig.
+  5. Een unique titel per pagina en zoompoort is aanwezig.
+  6. De screenreader werkt niet goed genoeg. De titels worden voorgelezen, maar er is geen alt text bij de foto's
+  7. Button en links werken goed. Er zit geen horizontal scrolling op de website.
+  8. Er zit in de small screen variant niet altijd genoeg wit ruimte tussen de elementen.
+  9. De headings zijn overzichtelijk, alleen is het voormij niet altijd duidelijk of er nu een h2, h3, h4 of een p wordt gebruikt.
+  10. Er wordt geen gebruik gemaakt vind list items.
+  11. De links zijn bijna allemaal duidelijk te vinden, soms zit er een verstopt in een foto.
+  12. Er is geen dark of high contrast mode.
+  13. De gebruikte animatie zijn subtiel, ze sliden mooi in het scherm.
+  14. De color contrast is aanwezig.
 </details>
 
 
@@ -82,10 +82,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/PiattiHome.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/PiattiMenu.png" width="375px" alt="breakdown van de navigatie">
+  <img src="readme-images/PiattiMenu.png" width="31.25em" alt="breakdown van de navigatie">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="images/Form.png" width="375px" alt="Form voor het maken van een reservering">
+  <img src="readme-images/PiattiReserveer.png" width="375px" alt="Form voor het maken van een reservering bij piatti">
 
 </details>
 
