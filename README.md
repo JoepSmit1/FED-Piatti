@@ -84,7 +84,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="images/PiattiHome.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="images/Piattimenu.png" width="375px" alt="breakdown van de navigatie">
+  <img src="images/PiattiMenu.png" width="375px" alt="breakdown van de navigatie">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="images/Form.png" width="375px" alt="Form voor het maken van een reservering">
@@ -282,4 +282,5 @@ form voor newsletter
   27. Uitleg over Object-fit en Display:block Bron ChatGPT: prompt:hoe zeg je dat de foto de hele kolom moet inemen css?
   28. Bron uitleg over transition: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/transition
   29. Bron uitleg over text-decoration: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/text-decoration
+  30. https://piattibeach.com
 </details>
