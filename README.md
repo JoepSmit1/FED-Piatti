@@ -43,7 +43,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Events Pagina - Piatti Beach
-  <img src="readme-images/PiattiEvents.png" width="375px" alt="Piatti - Menu pagina">
+  <img src="readme-images/PiattiEvents.png" width="375px" alt="Piatti - Event pagina">
 </details>
 
 
@@ -79,12 +79,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/PiattiHome.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/PiattiSchets.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/PiattiMenu.png" width="31.25em" alt="breakdown van de navigatie">
+  <img src="readme-images/PiattiMenu.png" width="475px" alt="breakdown van de navigatie">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
+  ### wellicht nog een dynamisch deel (Form voor het reserveren van een tafel bij Piatti): 
   <img src="readme-images/PiattiReserveer.png" width="375px" alt="Form voor het maken van een reservering bij piatti">
 
 </details>
@@ -211,19 +211,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  - <img src="readme-images/PiattiHome-Header-S1-S2.png" width="375px" alt="De header en eerste twee secties van de piatti home pagina">
 
+  - <img src="readme-images/PiattiEvents-S3-S4-S5-S6.png" width="375px" alt="De derde, vierde, vijfde en zesde sectie van de piatti events pagina">
+
+  - <img src="readme-images/PiattiHome-S5-S6-S7-S8_Footer.png" width="375px" alt="De vijfde, zesde, zevende en achste sectie + footer van de piatt home pagina">
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  - Wat goed ging was het werken met grid. Deze tool was volledig nieuw voor mij en ik heb nu het gevoel, dat ik het goed beheers. Zo moest ik voor een sectie aan de slag met foto's die allemaal net ander voormaatje hadden, die elkaar niet mochten overlappen, waarbij aan de zijkant de tekst netjes uitgelijnt onder elkaar moest staan. Dit was goed gelukt.
+  - <img src="readme-images/PiattiHome-S3.png" width="375px" alt="top">
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
-
+  - Wat ook goed ging was het maken van een verschillende formulieren en deze in stijl van piatti vormgeven. Ik heb nu geleerd, dat je met input veel verschillende opties hebt om een formulier samen te stellen en verschillende teksten kan toevoegen met een label.
+  - <img src="readme-images/PiattiHome-S4.png" width="375px" alt="top">
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  - Ik heb geprobeerd een carousel te maken met 5 foto's naast elkaar, die om de paar seconde eentje naar links verplaats en er een nieuwe foto voor in de plaats kwam. Net zoals bij de piatti website, dit is alleen niet gelukt. Ik heb met de code van de carousel opdracht wel een enkele foto carousel gemaakt. Dit was ook de bedoeling voor klein scherm, maar 5 foto's naast elkaar die om de paar seconde en nieuwe foto inbeeld krijgen is niet gelukt. Dit werd met javascrip gemaakt en dit is mij niet gelukt. Ik heb wel pijltjes toevoegt met behulp van de carousel opdracht, die we in de les hebben gedaan. Dit hielp om makkelijker door het carousel heen te gaan i.p.v. dat je op een klein bolletje moet drukken.
+  - Dit is wat ik wilde maken:
+  - <img src="readme-images/CarouselOrigineel.png" width="375px" alt="bummer">
+  - Dit is wat het is geworden:
+  - <img src="readme-images/CarouselJoep.png" width="375px" alt="bummer">
 </details>
 
 
