@@ -84,7 +84,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="images/PiattiHome.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="images/Piattimenu.pdf" width="375px" alt="breakdown van de navigatie">
+  <img src="images/Piattimenu.png" width="375px" alt="breakdown van de navigatie">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="images/Form.png" width="375px" alt="Form voor het maken van een reservering">
