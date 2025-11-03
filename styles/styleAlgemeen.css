@@ -569,7 +569,7 @@ footer button{
 
 }
 
-/* Verandering vanaf minimale width van 64em */
+/* Verandering vanaf minimale width van 64em*/
 @media (min-width:64em) {
 header nav {
     display: flex;

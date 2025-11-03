@@ -35,7 +35,7 @@ html {
 /* jouw code */
 
 /* DE MAIN */
-
+/* Section 1 */
 main section:nth-of-type(1) img {
 	display: grid;
 	grid-template-rows: 50em 50em;
@@ -103,6 +103,7 @@ main section:nth-of-type(1) ul{
 	padding-bottom: 5em;
 }
 
+/* Section 2 */
 main section:nth-of-type(2) {
 	text-align: center;
 	background-color: var(--SectieAchtergrond2);
@@ -210,6 +211,7 @@ main section:nth-of-type(2) h4{
 	text-align: start;
 }
 
+/* Section 3 */
 main section:nth-of-type(3) {
 	background-color: var(--SectieAchtergrond1);
 }
@@ -296,7 +298,7 @@ main section:nth-of-type(3) img:nth-of-type(4) {
 	padding-bottom: 10em;
 }
 
-
+/* Section 4 */
 main section:nth-of-type(4) {
 	display: grid;
 	grid-template-rows:1fr 1fr 1fr 1fr;
@@ -435,6 +437,7 @@ main section:nth-of-type(4) form label, main section:nth-of-type(4) form button{
 	margin: 0.8em;
 }
 
+/* Section 5 */
 main section:nth-of-type(5) {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
@@ -506,6 +509,7 @@ main section:nth-of-type(5) h2 {
 
 }
 
+/* Section 6 */
 main section:nth-of-type(6){
 	background-color: var(--SectieAchtergrond1);
 	display: grid;
@@ -615,6 +619,7 @@ main section:nth-of-type(6) img:nth-of-type(4){
 	margin-bottom: 4em;
 }
 
+/* Section 7 */
 main section:nth-of-type(7) {
 	display: grid;
 	grid-template-columns: fit-content;
@@ -695,6 +700,8 @@ main section:nth-of-type(7) button{
 	width: 30%;
 }
 
+
+   /* Verandering vanaf minimale width van 48em */
 @media(min-width: 48em) {
 	main section:nth-of-type(1) {
 		display: grid;
@@ -1156,7 +1163,7 @@ main section:nth-of-type(7) button{
 	}
 }
 
-
+   /* Verandering vanaf minimale width van 64em */
 @media (min-width:64em) {
 	header nav ul li:first-child a {
 		border-bottom-color: var(--Button);
